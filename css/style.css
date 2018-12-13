@@ -189,6 +189,7 @@ li:last-child{
 .fb, .ig, .cp, .gth, .yah, .gm{
 	margin-right: 53px;
 	margin-left: 20px;
+	text-decoration: none;
 }
 #cnt{
 	word-spacing: 30px;
